@@ -9,6 +9,9 @@ your text/video ratio
 
 
 the program chooses a random background-video from the background folder
+
+
+
 you can download different backgrounds here: https://www.pexels.com/search/videos/instagram/
 
 
